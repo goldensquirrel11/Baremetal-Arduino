@@ -56,3 +56,6 @@ dkms.conf
 
 # Assembly code
 *.asm
+
+# VSCode
+.vscode
